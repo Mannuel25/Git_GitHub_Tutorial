@@ -1,7 +1,7 @@
 # Here is my Git_GitHub_Tutorial
 
-I'm just gonna do a few things:
-Generate a secure random password for a user
+## I'm just gonna do a few things:
+## Generate a secure random password for a user
 
 ## Password requirements: 
 
