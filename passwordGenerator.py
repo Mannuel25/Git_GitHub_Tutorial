@@ -15,7 +15,7 @@ def generatePassword():
     user_password += secrets.choice(string.punctuation)
     user_password += ''.join(secrets.choice(password_picks) for i in range(8))
     password = list(user_password)
-    secrets.SystemRandom().shuffle(password)#
+    secrets.SystemRandom().shuffle(password)
     print('Your password is', ''.join(password))
 
 generatePassword()
