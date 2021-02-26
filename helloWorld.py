@@ -1,4 +1,4 @@
-while True:
+while not False:
     print('Hello world!!')
    
     
