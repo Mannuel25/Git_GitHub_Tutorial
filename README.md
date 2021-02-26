@@ -1,6 +1,6 @@
 # Here is my Git_GitHub_Tutorial
 
-## I'm just gonna do something easy:
+## I'm just gonna do something easy!
 
 ## Generate a secure random password for a user
 
